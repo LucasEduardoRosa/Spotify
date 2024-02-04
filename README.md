@@ -11,7 +11,7 @@ Ao criar este projeto, aprimorei minhas habilidades em:
 
 ## 🌝 Demonstração
 
-A aplicação está disponível para uso [aqui](https://spotify-pxzq.onrender.com/).
+A aplicação está disponível para uso [aqui]([https://spotify-pxzq.onrender.com/](https://spotify-e1wt.onrender.com/)).
 
 <details>
 <summary><b>Ver Interface👀</b></summary>
@@ -46,6 +46,5 @@ A aplicação está disponível para uso [aqui](https://spotify-pxzq.onrender.co
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
 
-## 👩Autor
-<img align="center" alt="Andressa" height="150em" width="150em" src="https://media.discordapp.net/attachments/805220480566165514/1143905030819295332/2fc4a8b8-fefc-488e-8451-d74ea820b6ea.jpg?width=441&height=441" />
-Andressa Silva
+## Autor
+>Lucas Eduardo
