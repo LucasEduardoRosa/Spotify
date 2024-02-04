@@ -11,7 +11,7 @@ Ao criar este projeto, aprimorei minhas habilidades em:
 
 ## 🌝 Demonstração
 
-A aplicação está disponível para uso [aqui]([https://spotify-pxzq.onrender.com/](https://spotify-e1wt.onrender.com/)).
+A aplicação está disponível para uso [aqui](https://spotify-e1wt.onrender.com/).
 
 <details>
 <summary><b>Ver Interface👀</b></summary>
